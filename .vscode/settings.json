@@ -1,0 +1,5 @@
+{
+    "[ocaml.ocamllex]": {
+        "editor.tabSize": 2
+    }
+}
